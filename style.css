@@ -1,0 +1,9 @@
+img{
+    border: 1px solid black;
+    margin-right: 20px;
+}
+
+div{
+    border: 1px solid gray;
+    background-color: gray;
+}
